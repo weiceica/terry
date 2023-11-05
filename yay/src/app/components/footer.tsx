@@ -7,7 +7,7 @@ function Footer() {
     <footer className="fixed bottom-0 w-full bg-white shadow-md p-4 flex justify-center items-center">
       <div className="flex items-center space-x-8">
         {/* Email Icon */}
-        <Link href="mailto:your-email@weiceica@gmail.com" className="text-black hover:underline">
+        <Link href="mailto:weiceica@gmail.com" className="text-black hover:underline">
           <FaEnvelope size={25} />
         </Link>
         {/* GitHub Icon */}
