@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import imgSideShot from '/Users/weiceica/Desktop/terryweb/terry/yay/public/images/sideshot.jpg'
+import imgSideShot from '../../../public/images/sideshot.jpg'
 import React from 'react';
 
 type NavbarProps = {};
