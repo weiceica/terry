@@ -11,18 +11,18 @@ function BlogHome() {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-12 pt-36">
         <article>
           <header className="mb-10 text-center">
-            <h1 className="text-5xl font-bold mb-4">Terry's Blog</h1>
+            <h1 className="text-5xl font-bold mb-4">Terry&apos;s Blog</h1>
             <div className="mx-auto my-2 h-1 w-16 bg-black mt-12 mb-12"></div>
             <p className="text-sm text-gray-500">A Journey of self reflection</p>
           </header>
 
           <div className="mb-10 max-w-md mx-auto">
             <p className="text-base text-gray-700 text-justify hover:scale-110">
-              Growing up, I was privileged enough to live in a variety of diverse places. I experienced the luxuries of Vancouver, spoiled with a blend of natural scenery and calm city life. I also experienced Beijing's rapidy changing, fast paced urban life. 
+              Growing up, I was privileged enough to live in a variety of diverse places. I experienced the luxuries of Vancouver, spoiled with a blend of natural scenery and calm city life. I also experienced Beijing&apos;s rapidy changing, fast paced urban life. 
             </p>
             <br />
             <p className="text-base text-gray-700 text-justify hover:scale-110 hover:z[-1]">
-              As a kid growing up, I didn't realize how lucky I am to get to travl to the edges of the world. I didn't realize how greatful I should be to have such loving parents. I didn't realize the starting point I had, and how greatful I should be.
+              As a kid growing up, I didn&apos;t realize how lucky I am to get to travl to the edges of the world. I didn&apos;t realize how greatful I should be to have such loving parents. I didn&apos;t realize the starting point I had, and how greatful I should be.
             </p>4
             <br />
             <p className="text-base text-gray-700 text-center hover:scale-110 hover:z[-1]">
