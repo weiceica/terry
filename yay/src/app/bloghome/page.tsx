@@ -22,8 +22,8 @@ function BlogHome() {
             </p>
             <br />
             <p className="text-base text-gray-700 text-justify hover:scale-110 hover:z[-1]">
-              As a kid growing up, I didn&apos;t realize how lucky I am to get to travl to the edges of the world. I didn&apos;t realize how greatful I should be to have such loving parents. I didn&apos;t realize the starting point I had, and how greatful I should be.
-            </p>4
+              As a kid growing up, I didn&apos;t realize how lucky I am to get to travel to the edges of the world. I didn&apos;t realize how greatful I should be to have such loving parents. I didn&apos;t realize the starting point I had, and how greatful I should be.
+            </p>
             <br />
             <p className="text-base text-gray-700 text-center hover:scale-110 hover:z[-1]">
               <b>scroll down for my Blogs!</b>
