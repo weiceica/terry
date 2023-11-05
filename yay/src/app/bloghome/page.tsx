@@ -23,7 +23,7 @@ function BlogHome() {
             <br />
             <p className="text-base text-gray-700 text-justify hover:scale-110 hover:z[-1]">
               As a kid growing up, I didn't realize how lucky I am to get to travl to the edges of the world. I didn't realize how greatful I should be to have such loving parents. I didn't realize the starting point I had, and how greatful I should be.
-            </p>
+            </p>4
             <br />
             <p className="text-base text-gray-700 text-center hover:scale-110 hover:z[-1]">
               <b>scroll down for my Blogs!</b>
