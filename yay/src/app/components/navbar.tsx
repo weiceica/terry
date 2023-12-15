@@ -30,11 +30,8 @@ const Navbar: React.FC<NavbarProps> = () => {
           <Link href="/bloghome" passHref className="rounded-lg border border-transparent px-2 py-2 transition-colors hover:border-gray-300 hover:bg-gray-100">
             Blog
           </Link>
-          <Link href="/work" passHref className="rounded-lg border border-transparent px-2 py-2 transition-colors hover:border-gray-300 hover:bg-gray-100">
-            Work
-          </Link>
-          <Link href="/travel" passHref className="rounded-lg border border-transparent px-2 py-2 transition-colors hover:border-gray-300 hover:bg-gray-100">
-            Travel
+          <Link href="/portfolio" passHref className="rounded-lg border border-transparent px-2 py-2 transition-colors hover:border-gray-300 hover:bg-gray-100">
+            Portfolio
           </Link>
           <Link href="/about" passHref className="rounded-lg border border-transparent px-2 py-2 transition-colors hover:border-gray-300 hover:bg-gray-100">
             About Me

@@ -57,9 +57,9 @@ export default function Home() {
           </p>
         </Link>
 
-        <Link href="/work" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100">
+        <Link href="/portfolio" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100">
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Work{' '}
+            Portfolio{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
@@ -68,24 +68,6 @@ export default function Home() {
             Work Experience and some cool projects I have been working on
           </p>
         </Link>
-
-
-        <a
-          href="/travel"
-          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
-          
-          rel="noopener noreferrer"
-        >
-          <h2 className={`mb-3 text-2xl font-semibold`}>
-            Travel{' '}
-            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
-              -&gt;
-            </span>
-          </h2>
-          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Exploring every corner on planet Earth with Shenna
-          </p>
-        </a>
 
         <a
           href="/about"
@@ -100,6 +82,23 @@ export default function Home() {
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
             A brief introduction of me + contact information
+          </p>
+        </a>
+
+        <a
+          href="/"
+          className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
+          
+          rel="noopener noreferrer"
+        >
+          <h2 className={`mb-3 text-2xl font-semibold`}>
+            Download CV{' '}
+            <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
+              -&gt;
+            </span>
+          </h2>
+          <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
+            View the latest version of my data analytics Resume
           </p>
         </a>
       </div>

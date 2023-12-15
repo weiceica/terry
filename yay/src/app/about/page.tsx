@@ -23,10 +23,10 @@ function About() {
             <div className="bg-gray-100 border border-gray-200 rounded-md shadow-inner p-4">
               <h1 className="text-3xl font-semibold mb-4">Hi! I&apos;m Terry Shi</h1>
               <p className="text-base leading-relaxed">
-                I am from Vancouver, BC, and I am currently a student at the University of Michigan, Ann Arbor, double majoring in Computer Science and Data Science, minoring in statistics. As much as I hope to remain professional, I want this website to be a space for me to reflect upon myself, instead of showcasing the perfect version of me - something that I realized over time...
+                I am from Vancouver, BC, and I am currently a student at the University of Michigan, Ann Arbor, double majoring in Computer Science and Data Science. As much as I hope to remain professional, I want this website to be a space for me to reflect upon myself, instead of showcasing the perfect version of me - something that I realized over time...
               </p>
               <p className="text-base leading-relaxed mt-4">
-                I am passionate about urban technology and software engineering - especially incorporating the use of big data analytics and machine learning into the design of smart cities. I have experience as a software engineer, working with front-end, back-end, and cloud technologies. Additionally, I also have experience as a data analyst, designing databases for production software, and training machine learning models for large scale data science projects.
+                I am passionate about urban technology and data science - especially incorporating the use of big data analytics and machine learning into the design of smart cities. I have experience as a software engineer, working with front-end, back-end, and cloud technologies. Additionally, I also have experience as a data analyst, designing databases for production software, and training machine learning models for large scale data science projects.
               </p>
               <p className="text-base leading-relaxed mt-4">
                 I could not live my life without TRAVELLING, backcountry SKIING, and SOCCER. I find joy in backpacking across obscure and unheard of places to experience the diverse cultures and landscapes of the world, as I would often bring a soccer ball with me in my journeys as a means of connecting with locals. During winter, you could find me roaming the slopes of British Columbia.
@@ -42,7 +42,7 @@ function About() {
                 I enjoy engineering, analyzing, and visualizing data, and hope to one day apply these technical skills into developing sustainable living environments for citizens of the future.
               </p>
               <p className="text-base leading-relaxed mt-4">
-                I have taken courses such as Database Management Systems, Operating Systems, Machine Learning, and all the technical courses to make me realize my goals.
+                I have taken courses such as Database Management Systems, Machine Learning, Statistical Probabilities, Data Structures and Algorithms, and Linear Regression to help me realize these goals. 
               </p>
             </div>
           </div>
