@@ -13,7 +13,7 @@ const b1 = () => {
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 my-12 pt-36">
         <article>
           <header className="mb-10 text-center">
-            <h1 className="text-5xl font-bold mb-4">Semester Recap + almost failing EECS 482</h1>
+            <h1 className="text-5xl font-bold mb-4">Semester Recap</h1>
             <div className="mx-auto my-2 h-1 w-16 bg-black mt-12 mb-12"></div>
             <p className="text-sm text-gray-500">
               Thursday, Dec 14, 2023
@@ -26,7 +26,7 @@ const b1 = () => {
             </p>
             <br />
             <p className="text-base text-gray-700 text-justify">
-              As much as I want to find excuses for myself, the reality is I am just simply not dedicated nor naturally intelligent enough to handle all of these things at once. Before undergrad started, I thought to myself, how hard can university be... I heard many people talking about lowering expectations for yourself for university, but never in a million years would I imagine almost failing a class in university, (even if this class technically doesn&apos;t count towards my major..), but I guess from every failure, I can learn something right? 
+              I mean, I did not end up doign very badly in these classes, but I sure suffered a lot of mental stress from these time consuming courses...
             </p>
             <br />
             <ul className="font-semibold">
