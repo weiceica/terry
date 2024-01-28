@@ -38,7 +38,7 @@ const b1 = () => {
             </ul>
             <br />
             <p className="text-base text-gray-700 text-justify">
-              Terry, you got this.. you have a ml research next semester, you are taking a much lighter course load, and you also have so many loving friends that care around you. Nothing is the end of the world, In society, I just have to accept reality, adapt to reality, and then overcome reality in a stronger, more prepared manner. Sure, I might have failed one class, but this doesn&apos;t mean that I can&apos;t get into a good MSDS grad school, it shouldn&apos;t stop me from what I love doing, and what I want to do... I simply just have to overcome the challenges I faced this semester and use it as motivation for me to do well the next semester. Recruting + Learn DA and SQL + hopefully a fun semester to come... At the end of the day, so what if I fail a class in operating systems, at least I learned a lot. 
+              Terry, you got this.. you have a ml research next semester, you are taking a much lighter course load, and you also have so many loving friends that care around you. Nothing is the end of the world, In society, I just have to accept reality, adapt to reality, and then overcome reality in a stronger, more prepared manner. Sure, I might have failed one class, but this doesn&apos;t mean that I can&apos;t get into a good MSDS grad school, it shouldn&apos;t stop me from what I love doing, and what I want to do... I simply just have to overcome the challenges I faced this semester and use it as motivation for me to do well the next semester. Recruting + Learn DA and SQL + hopefully a fun semester to come...
             </p>
           </div>
         </article>

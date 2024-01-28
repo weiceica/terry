@@ -59,7 +59,7 @@ export default function Home() {
 
         <Link href="/portfolio" className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100">
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Portfolio{' '}
+            Projects{' '}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
@@ -86,9 +86,9 @@ export default function Home() {
         </a>
 
         <a
-          href="/"
+          href="/ResumeJan2024.pdf"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100"
-          
+          download="Jun Xiang (Terry) Shi Resume Jan 2024.pdf"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
@@ -98,7 +98,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            View the latest version of my data analytics Resume
+            View the latest version of my Resume
           </p>
         </a>
       </div>

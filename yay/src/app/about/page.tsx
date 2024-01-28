@@ -26,10 +26,13 @@ function About() {
                 I am from Vancouver, BC, and I am currently a student at the University of Michigan, Ann Arbor, double majoring in Computer Science and Data Science. As much as I hope to remain professional, I want this website to be a space for me to reflect upon myself, instead of showcasing the perfect version of me - something that I realized over time...
               </p>
               <p className="text-base leading-relaxed mt-4">
-                I am passionate about urban technology and data science - especially incorporating the use of big data analytics and machine learning into the design of smart cities. I have experience as a software engineer, working with front-end, back-end, and cloud technologies. Additionally, I also have experience as a data analyst, designing databases for production software, and training machine learning models for large scale data science projects.
+                Currently, I am doing <b>mechanistic interpretability</b> research with professor Yixin Wang investigating Large Language models ability to encode geographical information. I am a <b>motivated, self-driven fast learner</b>, as I inspire to produce well tested code for software companies.
               </p>
               <p className="text-base leading-relaxed mt-4">
-                I could not live my life without TRAVELLING, backcountry SKIING, and SOCCER. I find joy in backpacking across obscure and unheard of places to experience the diverse cultures and landscapes of the world, as I would often bring a soccer ball with me in my journeys as a means of connecting with locals. During winter, you could find me roaming the slopes of British Columbia.
+                I am passionate about <b>engineering and developing software</b> - especially incorporating the use of big data analytics and machine learning into the design of smart cities. I have experience as a software engineer, working with front-end, back-end, and cloud technologies. Additionally, I also have experience as a data analyst, designing databases for production software, and training machine learning models for large scale data science projects.
+              </p>
+              <p className="text-base leading-relaxed mt-4">
+                I could not live my life without <b>travelling, backcountry skiing, and soccer</b>. I find joy in backpacking across obscure and unheard of places to experience the diverse cultures and landscapes of the world, as I would often bring a soccer ball with me in my journeys as a means of connecting with locals. During winter, you could find me roaming the slopes of British Columbia.
               </p>
             </div>
             <br />

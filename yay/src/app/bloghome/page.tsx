@@ -9,7 +9,7 @@ function BlogHome() {
   // for now manually create the static pages.
   const blogPosts = [
     { id: 1, title: "Semester Recap + almost failing EECS 482 reflection" },
-    // Add more blog post objects here
+    { id: 2, title: "What a productive and relaxing winter break in China" }
   ];
 
   // for loop that handles the blog post
@@ -71,7 +71,7 @@ function BlogHome() {
           </figure>
 
           {/* Link to another blog post */}
-          <div className="flex flex-col items-center mt-12">{blogLinks}</div>
+          <div className="flex flex-col items-center mt-6">{blogLinks}</div>
         </article>
       </main>
       <Footer />
