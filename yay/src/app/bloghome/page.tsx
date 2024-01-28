@@ -8,8 +8,7 @@ import imgBackShot from "../../../public/images/terryBack.png";
 function BlogHome() {
   // for now manually create the static pages.
   const blogPosts = [
-    { id: 1, title: "Semester Recap + almost failing EECS 482 reflection" },
-    { id: 2, title: "What a productive and relaxing winter break in China" }
+    { id: 1, title: "Winter Break!" },
   ];
 
   // for loop that handles the blog post
